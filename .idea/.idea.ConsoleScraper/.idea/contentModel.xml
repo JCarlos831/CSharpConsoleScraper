@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_ConsoleScraper.-1318805490.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="ConsoleScraper" t="IncludeRecursive">
+        <e p="Actions.cs" t="Include" />
+        <e p="Alert.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Config.cs" t="Include" />
+        <e p="ConsoleScraper.csproj" t="IncludeRecursive" />
+        <e p="Driver.cs" t="Include" />
+        <e p="EntryPoint.cs" t="Include" />
+        <e p="GetData.cs" t="Include" />
+        <e p="LoginPassword.cs" t="Include" />
+        <e p="LoginUserName.cs" t="Include" />
+        <e p="MyPortfolios.cs" t="Include" />
+        <e p="NavigateTo.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="StockInfo.cs" t="Include" />
+        <e p="TestPortfolio.cs" t="Include" />
+        <e p="YFinanceNavBar.cs" t="Include" />
+      </e>
+      <e p="ConsoleScraper.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive">
+        <e p="NUnit3TestAdapter.3.10.0/build/net35/Mono.Cecil.dll" t="Include" />
+        <e p="NUnit3TestAdapter.3.10.0/build/net35/nunit.engine.api.dll" t="Include" />
+        <e p="NUnit3TestAdapter.3.10.0/build/net35/nunit.engine.dll" t="Include" />
+        <e p="NUnit3TestAdapter.3.10.0/build/net35/NUnit3.TestAdapter.dll" t="Include" />
+        <e p="NUnit3TestAdapter.3.10.0/build/net35/NUnit3.TestAdapter.pdb" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
