@@ -15,11 +15,13 @@ namespace ConsoleScraper
             Actions.FillPassword(Config.Credentials.Valid.Password);
             Thread.Sleep(500);
             
-            NavigateTo.TestPortfolioThroughYFinanceNavBar();
+            NavigateTo.TestPortfolioMyHoldings();
             Thread.Sleep(3000);
             
-            Actions.GetStockDataFromTable();
+//            NavigateTo.MyHoldingsScreen();
+//            Thread.Sleep(3000);
             
+            Actions.GetStockDataFromTable();            
         }
     }
 }

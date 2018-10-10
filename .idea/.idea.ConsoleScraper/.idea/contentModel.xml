@@ -7,6 +7,7 @@
       <e p="ConsoleScraper" t="IncludeRecursive">
         <e p="Actions.cs" t="Include" />
         <e p="Alert.cs" t="Include" />
+        <e p="App.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Config.cs" t="Include" />
         <e p="ConsoleScraper.csproj" t="IncludeRecursive" />
@@ -15,14 +16,20 @@
         <e p="GetData.cs" t="Include" />
         <e p="LoginPassword.cs" t="Include" />
         <e p="LoginUserName.cs" t="Include" />
+        <e p="Models" t="Include">
+          <e p="PortfolioInfo.cs" t="Include" />
+          <e p="StockInfo.cs" t="Include" />
+        </e>
+        <e p="MyHoldings.cs" t="Include" />
         <e p="MyPortfolios.cs" t="Include" />
         <e p="NavigateTo.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="packages.config" t="Include" />
+        <e p="PortfolioNavBar.cs" t="Include" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
-        <e p="StockInfo.cs" t="Include" />
+        <e p="SqlDataAccess.cs" t="Include" />
         <e p="TestPortfolio.cs" t="Include" />
         <e p="YFinanceNavBar.cs" t="Include" />
       </e>

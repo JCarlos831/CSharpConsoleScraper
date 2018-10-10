@@ -16,3 +16,14 @@
 /Users/JuanCMontoya/Projects/RiderProjects/ConsoleScraper/ConsoleScraper/bin/Debug/nunit.framework.dll
 /Users/JuanCMontoya/Projects/RiderProjects/ConsoleScraper/ConsoleScraper/bin/Debug/nunit.framework.pdb
 /Users/JuanCMontoya/Projects/RiderProjects/ConsoleScraper/ConsoleScraper/bin/Debug/nunit.framework.xml
+/Users/JuanCMontoya/Projects/RiderProjects/ConsoleScraper/ConsoleScraper/bin/Debug/ConsoleScraper.exe.config
+/Users/JuanCMontoya/Projects/RiderProjects/ConsoleScraper/ConsoleScraper/bin/Debug/EntityFramework.dll
+/Users/JuanCMontoya/Projects/RiderProjects/ConsoleScraper/ConsoleScraper/bin/Debug/EntityFramework.SqlServer.dll
+/Users/JuanCMontoya/Projects/RiderProjects/ConsoleScraper/ConsoleScraper/bin/Debug/System.Data.SQLite.dll
+/Users/JuanCMontoya/Projects/RiderProjects/ConsoleScraper/ConsoleScraper/bin/Debug/EntityFramework.xml
+/Users/JuanCMontoya/Projects/RiderProjects/ConsoleScraper/ConsoleScraper/bin/Debug/EntityFramework.SqlServer.xml
+/Users/JuanCMontoya/Projects/RiderProjects/ConsoleScraper/ConsoleScraper/bin/Debug/System.Data.SQLite.xml
+/Users/JuanCMontoya/Projects/RiderProjects/ConsoleScraper/ConsoleScraper/bin/Debug/System.Data.SQLite.dll.config
+/Users/JuanCMontoya/Projects/RiderProjects/ConsoleScraper/ConsoleScraper/bin/Debug/System.Data.SQLite.EF6.dll
+/Users/JuanCMontoya/Projects/RiderProjects/ConsoleScraper/ConsoleScraper/bin/Debug/System.Data.SQLite.Linq.dll
+/Users/JuanCMontoya/Projects/RiderProjects/ConsoleScraper/ConsoleScraper/bin/Debug/System.Data.SqlClient.dll

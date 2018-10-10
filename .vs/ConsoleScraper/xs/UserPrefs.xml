@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{DC5BDF83-AD44-45F7-BBF8-6BC59F2AA8BA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleScraper/SqliteDataAccess.cs">
+    <Files>
+      <File FileName="ConsoleScraper/EntryPoint.cs" Line="11" Column="1" />
+      <File FileName="ConsoleScraper/SqliteDataAccess.cs" Line="17" Column="17" />
+      <File FileName="ConsoleScraper/GetData.cs" Line="1" Column="1" />
+      <File FileName="ConsoleScraper/Actions.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConsoleScraper PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

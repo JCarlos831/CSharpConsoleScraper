@@ -16,6 +16,9 @@ namespace ConsoleScraper
         [FindsBy(How = How.XPath, Using = "//*[@id=\"fin-tradeit\"]/div[2]/div/div/div[2]/button[2]")]
         public IWebElement CloseBox { get; set; }
         
+        [FindsBy(How = How.XPath, Using = "//*[@id=\"__dialog\"]/section/button")]
+        public IWebElement CloseBox2 { get; set; }
+        
         [FindsBy(How = How.XPath, Using = "//*[@id=\"main\"]/section/section/div[2]/table/tbody/tr[2]/td[1]/a")]
         public IWebElement MyWatchlist { get; set; }
     }
